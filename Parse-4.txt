@@ -1,0 +1,4 @@
+num_vertices : 50
+
+type B: 50
+

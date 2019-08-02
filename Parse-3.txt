@@ -1,0 +1,10 @@
+num_vertices : 50
+(vertex1 vertex2) 10
+(vertex11 vertex12) 100
+(vertex1 vertex3) 30
+(vertex13 vertex3) 20
+(vertex12 vertex13) 25
+(vertex3 vertex2) 10
+(vertex13 vertex14) 10
+(vertex1 vertex14) 2
+type B: 50
